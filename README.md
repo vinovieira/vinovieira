@@ -1,8 +1,8 @@
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/vinovieira)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://silvinovieira.com/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:silvinovj@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinovieira)](https://www.linkedin.com/in/vinovieira)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.silvinovieira.com/)](https://silvinovieira.com/)
+[![Gmail Badge](https://img.shields.io/badge/-silvinovj@icloud.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvinovj@icloud.com)](mailto:silvinovj@icloud.com)
 
 
 ## My name is Silvino Vieira
